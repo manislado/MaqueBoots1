@@ -1,0 +1,19 @@
+{
+  "name": "maqueboost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manislado/MaqueBoots1.git"
+  },
+  "author": "Marcos Anislado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manislado/MaqueBoots1/issues"
+  },
+  "homepage": "https://github.com/manislado/MaqueBoots1#readme"
+}
